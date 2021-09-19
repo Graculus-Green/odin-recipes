@@ -1,4 +1,14 @@
 img {height :auto;
     width:500px;}
 
-body {font-family: Helvetica, sans-serif;}
+* {font-family: Helvetica, sans-serif;
+   padding-right: 15px;
+   padding-left:  15px;
+   text-align: center;}
+
+h1 {background-color: grey;}   
+
+ol li, ul li {
+    text-align: justify;
+    width: 40%;
+    margin: auto;}
